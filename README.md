@@ -4,6 +4,13 @@ Este projeto é uma landing page construída usando **HTML** e **CSS**, sem o us
 
 ---
 
+## 🚀 Acesse o Projeto Online
+
+🔗 **Visualizar no GitHub Pages:**  
+https://luis-gustavo21.github.io/Minha-Terceira-Landing-Page-com-HTML-e-CSS/
+
+---
+
 ## 🔹 Funcionalidades
 
 - Menu de navegação horizontal
